@@ -5,3 +5,4 @@ Some more features added in !
 E made some new changes here.
 Fixed new bugs.
 Fixed some new bugs.
+finish fetch. 
